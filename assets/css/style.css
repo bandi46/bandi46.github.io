@@ -77,14 +77,14 @@ h1, h2, h3, h4, h5, h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 2px solid #fff;
 }
 
 #header .profile h3 {
   font-size: 12px;
   margin: 0;
   padding: 0;
-  font-weight: 300;
+  font-weight: 700;
   -moz-text-align-last: center;
   text-align-last: center;
   font-family: "Poppins", sans-serif;
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/img-hero2.jpg") top center;
+  background: url("../img/Karir-Bidang-IT.jpg") top center;
   background-size: cover;
 }
 
@@ -237,21 +237,22 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: rgb(223, 220, 45);
+  color: rgb(220, 223, 45);
 }
 
 #hero p {
-  color: #fff;
+  color: #FFf;
   margin-bottom: 50px;
   font-size: 26px;
+  font-weight: 700;
   font-family: "Poppins", sans-serif;
 }
 
 #hero p span {
-  color: #fff;
+  color: #FF4500;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 5px solid #FF4500;
 }
 
 @media (min-width: 1024px) {
